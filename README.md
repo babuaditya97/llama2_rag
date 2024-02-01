@@ -1,7 +1,7 @@
 # RAG System using LLama2
 
 This GitHub repository houses the code for a Retrieval-Augmented Generation (RAG) system built on top of LLama2. The RAG system leverages the power of LLama2 as the underlying model and incorporates the all-mpnet-base-v2 model for embedding input queries. The system is designed to provide an efficient and effective solution for retrieval and generation tasks.
-
+colab link: https://colab.research.google.com/drive/1Nar8q5yV2mRF-yJKwOuSUlocEe8NrSps?usp=sharing
 ## Features
 
 - **LLama2 Integration**: The RAG system is built on top of LLama2, utilizing its capabilities for enhanced language understanding and processing.
